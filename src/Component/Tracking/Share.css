@@ -1,0 +1,19 @@
+/* ShareButton.css */
+.share-button {
+    background-color: #f39c12;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .share-button:hover {
+    background-color: #e67e22;
+  }
+  
